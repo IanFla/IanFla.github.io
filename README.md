@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Hi, I'm Ian. 
+
+I'm currently a HKU PhD student, and you can try to find my photo from the [official website](https://saasweb.hku.hk/student/2021phd.php#ianzhang), I think I've given you more than enough hints. 
 
 You can use the [editor on GitHub](https://github.com/IanFla/IanFla.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
