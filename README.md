@@ -19,3 +19,5 @@ which are actually 10-chains : ]
 Furthermore, I'm also a tutor of the course [STAT8019 Marketing Analytics](https://github.com/IanFla/Teaching-Experience/blob/main/STAT8019%20Marketing%20Analytics/Tutorial_4__STAT8019.pdf) and the course [STAT6011 Computational Statistics](https://github.com/IanFla/Teaching-Experience/blob/main/STAT6011%20Computational%20Statistics/Tut%202/Tut%202%20(with%20answers).ipynb) in HKU, I have to hold the tutorials with English although I'm not good at speaking English : <
 
 I was also one year in [France](https://www.ec-nantes.fr/english-version) as an exchange student in my fourth undergraduate year, mainly to explore new possibility of my study and life. There was an interesting [Machine Learning project](https://github.com/IanFla/IanFla.github.io/blob/main/files/EMG_based_gesture_recognition.pdf), where you can see my hands. This experience ends up a disaster because of the Covid-19 : \
+
+Here is my [CV](https://github.com/IanFla/IanFla.github.io/blob/main/files/CV.pdf) if you want to know more about me. 
