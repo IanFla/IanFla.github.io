@@ -16,4 +16,4 @@ I'm currently especially interested in the application of randomness in computat
 
 which are actually 10-chains : ]
 
-Furthermore, I'm also a tutor of the course [STAT8019 Marketing Analytics](https://github.com/IanFla/Teaching-Experience/blob/main/STAT8019%20Marketing%20Analytics/Tutorial_4__STAT8019.pdf) and the course [STAT6011 Computational Statistics](https://github.com/IanFla/Teaching-Experience/blob/main/STAT6011%20Computational%20Statistics/Tut%202/Tut%202%20(with%20answers).ipynb) in HKU, I have to hold the tutorials the English although I'm not good at speacking English : <
+Furthermore, I'm also a tutor of the course [STAT8019 Marketing Analytics](https://github.com/IanFla/Teaching-Experience/blob/main/STAT8019%20Marketing%20Analytics/Tutorial_4__STAT8019.pdf) and the course [STAT6011 Computational Statistics](https://github.com/IanFla/Teaching-Experience/blob/main/STAT6011%20Computational%20Statistics/Tut%202/Tut%202%20(with%20answers).ipynb) in HKU, I have to hold the tutorials with English although I'm not good at speacking English : <
