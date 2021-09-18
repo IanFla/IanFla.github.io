@@ -21,3 +21,7 @@ Furthermore, I'm also a tutor of the course [STAT8019 Marketing Analytics](https
 I was also one year in [France](https://www.ec-nantes.fr/english-version) as an exchange student in my fourth undergraduate year, mainly to explore new possibility of my study and life. There was an interesting [Machine Learning project](https://github.com/IanFla/IanFla.github.io/blob/main/files/EMG_based_gesture_recognition.pdf), where you can see my hands. This experience ends up a disaster because of the Covid-19 : \
 
 Here is my [CV](https://github.com/IanFla/IanFla.github.io/blob/main/files/CV.pdf) if you want to know more about me : )
+
+By the way, if you want to cook something, the eggs and potatoes would be a cheap, quick and delicious choice! 
+
+![food](https://raw.githubusercontent.com/IanFla/IanFla.github.io/main/files/eggpotato.jpg) 
