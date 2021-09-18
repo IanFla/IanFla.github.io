@@ -8,7 +8,7 @@ In the past one year, I have lost over 30 catties of by body weight and you can 
 
 that shows my past and future body weight : >
 
-When I was in HIT (Harbin Institute of Technology). I did researches about the asymptotic properties of stochastic dynamic system. There are two publications, [this one](https://www.sciencedirect.com/science/article/abs/pii/S0893965918303215) and [that one](https://onlinelibrary.wiley.com/doi/10.1002/mma.6540). The latter one is much better but people don't cite it : (
+When I was in HIT (Harbin Institute of Technology). I did researches about the asymptotic properties of stochastic dynamic systems. There are two publications, [this one](https://www.sciencedirect.com/science/article/abs/pii/S0893965918303215) and [that one](https://onlinelibrary.wiley.com/doi/10.1002/mma.6540). The latter one is much better but people don't cite it : (
 
 I'm currently especially interested in the application of randomness in computation. As a by-product, I made a novel way to [visualization the Markov chains](https://arxiv.org/pdf/2107.09850.pdf), check the examples
 
