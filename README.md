@@ -12,7 +12,7 @@ When I was a math student in HIT ([Harbin Institute of Technology](http://en.hit
 
 I'm currently especially interested in the application of randomness in computation. As a by-product, I made a novel way to [visualization the Markov chains](https://arxiv.org/pdf/2107.09850.pdf), check the examples
 
-![examples](https://raw.githubusercontent.com/IanFla/Markov-Chains/main/MC3.png?token=AMHG2XI4VUB6JJVMZKISCJ3BL7UXG)
+![examples](https://raw.githubusercontent.com/IanFla/Markov-Chains/main/MC3.png)
 
 which are actually 10-chains : ]
 
